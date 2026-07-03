@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd /Users/kyleabehrman/Library/Mobile\\ Documents/com~apple~CloudDocs/KyleABehrmanPortfolio && unzip -p .abacusai/temp/1c…)",
+      "Bash(cd /Users/kyleabehrman/Library/Mobile\\ Documents/com~apple~CloudDocs/KyleABehrmanPortfolio && unzip -p .abacusai/temp/1c…)",
+      "Bash(cd /Users/kyleabehrman/Library/Mobile\\ Documents/com~apple~CloudDocs/KyleABehrmanPortfolio && unzip -p .abacusai/temp/1c…)",
+      "Bash(cd /Users/kyleabehrman/Library/Mobile\\ Documents/com~apple~CloudDocs/KyleABehrmanPortfolio && python3 -m http.server 800…)"
+    ]
+  }
+}
